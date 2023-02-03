@@ -40,6 +40,7 @@ body {
   font-weight: 700;
   color: #fff;
   font-style: italic;
+  margin-right: auto;
 }
 
 .navbar .navbar-logo span {
@@ -202,8 +203,8 @@ body {
   padding-bottom: 4rem;
 }
 .team .row .team-card img {
-  border-radius: 50%;
-  width: 80%;
+  border-radius: 55%;
+  width: 70%;
 }
 .team .row .team-card .team-card-title {
   margin: 1rem auto 0.5rem;
